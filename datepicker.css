@@ -1,0 +1,35 @@
+
+.left {
+	text-align: left;
+}
+.tbl1 {
+	width: 200pt;
+	background: #134968c7;
+	color: white;
+}
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.tbl2 {
+	width: 200pt;
+	background: white;
+	color: black;
+	table-layout: fixed;
+}
+.tbl3 {
+	width: 200pt;
+	background: white;
+	color: rgb(14, 12, 12);
+	table-layout: fixed;
+}
+.gray {
+	text-align: center;
+	color: rgb(137, 145, 137);
+}
+.black {
+	text-align: center;
+	color: black;
+}
